@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Georgios Kalogeitonas
     tagline: Full Stack Developer
-    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profil.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: gkalog2@gmail.com
@@ -42,27 +42,16 @@ sidebar:
         - idiom: Spanish
           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+              My name is Kalogeitonas Georgios and I am a graduate of the School of Applied Mathematics and Physical Science at the National Technological University of Athens (NTUA).
+
+              I am working as a Full-stack Developer at EnterID using my skills in PHP, SQL, HTML, and CSS.
+
+              In addition to web applications in my spare time, I enjoy building physical computing and IOT projects using micro-controllers like atmega, stm32, esp8266, or esp32. I also enjoy bringing ideas to life by additive (3d printer) or subtracting manufacturing.
 education:
     title: Education
     info:
@@ -115,6 +104,7 @@ certifications:
           organization: DeepLearning.AI
           credentialid: E224TWEJ6HQE
           credentialurl: https://www.coursera.org/account/accomplishments/specialization/E224TWEJ6HQE
+          credentialname: Deep Learning
           details: |
             Convolutional Neural Networks
             Structuring Machine Learning Projects
@@ -128,6 +118,7 @@ certifications:
           organization: DeepLearning.AI
           credentialid: DQWHAU6934K6
           credentialurl: https://www.coursera.org/account/accomplishments/specialization/DQWHAU6934K6
+          credentialname: TensorFlow Developer
           details: |
               Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
               Convolutional Neural Networks in TensorFlow
@@ -138,6 +129,7 @@ certifications:
           end:  2019
           organization: linkedin
           credentialurl: https://www.linkedin.com/learning/certificates/4f3981337fe9446a4056466b58b1766fb5dfc3e83b77968b4bbe394029edcc81?trk=share_certificate
+          credentialname: Git Essential Training
           details: |
             Git Essential Training     
 
@@ -146,6 +138,7 @@ certifications:
           end:  2022
           organization: linkedin
           credentialurl: https://www.linkedin.com/learning/certificates/450cde6485acf5a8f8b3be89e45a36cfdabeae57f3756c3601992eaf73c3ef63
+          credentialname: Git Branches, Merges, and Remotes
           details: |
             Git: Branches, Merges, and Remotes
 
@@ -154,107 +147,37 @@ certifications:
           end:  2022
           organization: linkedin
           credentialurl: https://www.linkedin.com/learning/certificates/3d16df3e26c1bfca53641b71a2d83030ed28a57664b63eca945556865a16a98e
+          credentialname: Git Intermediate Techniques
           details: |
             Git Intermediate Techniques
 
-        - name:  Getting Started w ith Go
+        - name:  Getting Started with Go
           start: 2022
           end:  2022
           organization: coursera
           credentialid: HH43L2SXXBE4
           credentialurl: https://www.coursera.org/account/accomplishments/certificate/HH43L2SXXBE4
+          credentialname: Getting Started with Go
           details: |
             Git Intermediate Techniques
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: PHP
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Mysql
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
