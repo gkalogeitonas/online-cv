@@ -10,37 +10,26 @@ sidebar:
     # Profile information
     name: Georgios Kalogeitonas
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: gkalog2@gmail.com
+    phone: 6972392509
+    timezone: Europe/Athens Timezone
+    citizenship: Greek
+    linkedin: https://www.linkedin.com/in/georgios-kalogeitonas/
+    github: gkalogeitonas
+    #   pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Greek
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
@@ -66,110 +55,105 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Integrated master, Applied Mathematics and Physics
+        university: National Technical University of Athens (NTUA) 
+        time: 2002 - 2010
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            I pursued my studies in Applied Mathematics and Physics at the  National Technical University of Athens. This rigorous academic program equipped me with a solid foundation in mathematical modeling, problem-solving, and analytical thinking. I gained valuable insights into the principles of physics and their real-world applications. My time at this esteemed institution honed my research and critical thinking skills, preparing me for a successful career in fields that require a strong quantitative background.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Full Stack Developer 
+        time: 2013 - Present
+        company: EnterID Solutions
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            Construction, maintenance, and expansion of online stores based on the OpenCart platform (all versions).
+            Building Interconnections for the most popular ERPs in Greece like SoftOne, Galaxy, Entersoft, and Pylon with the OpenCart platform.
+            Building tailor-made shipping, payment, analytics, and other extensions for our clients.
+            Building automation products importers from manufacturer feed (XML or JSON).
+            Building product feed for eCommerce aggregators.
+            Website development, based on the open-source platform Drupal software (7. x and 8. x).
+            Building web applications and using programming skills in PHP, SQL, and Javascript.
+      - role: Web Developer
+        time: 2008 - 2014
+        company: Freelancer
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            Build various private projects with PHP, and MySQL. Build some static sites as freelance jobs. Build some Drupal websites as an outsourcing partner to other companies.
+      - role: High School Teacher 
+        time: Apr 2013 -  Jun 2013
+        company: Teaching Mathematics at the 2nd High School of Naxos
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Teaching Mathematics at the 2nd High School of Naxos, Greece.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Machine Learning
           start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          end:  2019
+          organization: Coursera
+          credentialid: QTVWBB2R8NCN
+          credentialurl: https://www.coursera.org/account/accomplishments/verify/QTVWBB2R8NCN
+          credentialname: Machine Learning
+
+        - name: Deep Learning
+          start: 2019
+          end:  2019
+          organization: DeepLearning.AI
+          credentialid: E224TWEJ6HQE
+          credentialurl: https://www.coursera.org/account/accomplishments/specialization/E224TWEJ6HQE
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Convolutional Neural Networks
+            Structuring Machine Learning Projects
+            Neural Networks and Deep Learning
+            Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+            Sequence Models
+
+        - name: TensorFlow Developer
+          start: 2022
+          end:  2022
+          organization: DeepLearning.AI
+          credentialid: DQWHAU6934K6
+          credentialurl: https://www.coursera.org/account/accomplishments/specialization/DQWHAU6934K6
+          details: |
+              Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+              Convolutional Neural Networks in TensorFlow
+              Natural Language Processing in TensorFlow
+              Sequences, Time Series and Prediction    
+
+        - name: Git Essential Training
+          start: 2019
+          end:  2019
+          organization: linkedin
+          credentialurl: https://www.linkedin.com/learning/certificates/4f3981337fe9446a4056466b58b1766fb5dfc3e83b77968b4bbe394029edcc81?trk=share_certificate
+          details: |
+            Git Essential Training
+
+        - name:  Git: Branches, Merges, and Remotes
+          start: 2022
+          end:  2022
+          organization: linkedin
+          credentialurl: https://www.linkedin.com/learning/certificates/450cde6485acf5a8f8b3be89e45a36cfdabeae57f3756c3601992eaf73c3ef63
+          details: |
+            Git: Branches, Merges, and Remotes
+
+        - name:  Git Intermediate Techniques
+          start: 2022
+          end:  2022
+          organization: linkedin
+          credentialurl: https://www.linkedin.com/learning/certificates/3d16df3e26c1bfca53641b71a2d83030ed28a57664b63eca945556865a16a98e
+          details: |
+            Git Intermediate Techniques
+
+        - name:  Getting Started w ith Go
+          start: 2022
+          end:  2022
+          organization: coursera
+          credentialid: HH43L2SXXBE4
+          credentialurl: https://www.coursera.org/account/accomplishments/certificate/HH43L2SXXBE4
+          details: |
+            Git Intermediate Techniques
 
 projects:
     title: Projects
