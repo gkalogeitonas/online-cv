@@ -30,6 +30,17 @@ sidebar:
         - idiom: English
           level: Professional
 
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
 
     interests:
       title: Interests
@@ -60,6 +71,7 @@ education:
         time: 2002 - 2010
         details: |
             I pursued my studies in Applied Mathematics and Physics at the  National Technical University of Athens. This rigorous academic program equipped me with a solid foundation in mathematical modeling, problem-solving, and analytical thinking. I gained valuable insights into the principles of physics and their real-world applications. My time at this esteemed institution honed my research and critical thinking skills, preparing me for a successful career in fields that require a strong quantitative background.
+
 
 experiences:
     title: Experiences
@@ -120,17 +132,16 @@ certifications:
               Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
               Convolutional Neural Networks in TensorFlow
               Natural Language Processing in TensorFlow
-              Sequences, Time Series and Prediction    
-
+        
         - name: Git Essential Training
           start: 2019
           end:  2019
           organization: linkedin
           credentialurl: https://www.linkedin.com/learning/certificates/4f3981337fe9446a4056466b58b1766fb5dfc3e83b77968b4bbe394029edcc81?trk=share_certificate
           details: |
-            Git Essential Training
+            Git Essential Training     
 
-        - name:  Git: Branches, Merges, and Remotes
+        - name:  Git Branches, Merges, and Remotes
           start: 2022
           end:  2022
           organization: linkedin
