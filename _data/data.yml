@@ -48,10 +48,12 @@ career-profile:
     title: Career Profile
     summary: |
               My name is Kalogeitonas Georgios and I am a graduate of the School of Applied Mathematics and Physical Science at the National Technological University of Athens (NTUA).
-
+              
               I am working as a Full-stack Developer at EnterID using my skills in PHP, SQL, HTML, and CSS.
-
-              In addition to web applications in my spare time, I enjoy building physical computing and IOT projects using micro-controllers like atmega, stm32, esp8266, or esp32. I also enjoy bringing ideas to life by additive (3d printer) or subtracting manufacturing.
+              
+              In addition to web applications in my spare time, I enjoy building physical computing and IOT projects using micro-controllers like atmega, stm32, esp8266, or esp32. 
+              
+              I also enjoy bringing ideas to life by additive (3d printer) or subtracting manufacturing.
 education:
     title: Education
     info:
@@ -70,11 +72,17 @@ experiences:
         company: EnterID Solutions
         details: |
             Construction, maintenance, and expansion of online stores based on the OpenCart platform (all versions).
+            
             Building Interconnections for the most popular ERPs in Greece like SoftOne, Galaxy, Entersoft, and Pylon with the OpenCart platform.
+            
             Building tailor-made shipping, payment, analytics, and other extensions for our clients.
+            
             Building automation products importers from manufacturer feed (XML or JSON).
+            
             Building product feed for eCommerce aggregators.
+            
             Website development, based on the open-source platform Drupal software (7. x and 8. x).
+            
             Building web applications and using programming skills in PHP, SQL, and Javascript.
       - role: Web Developer
         time: 2008 - 2014
