@@ -51,6 +51,22 @@ education:
         time: 2002 - 2010
         details: |
             I pursued my studies in Applied Mathematics and Physics at the  National Technical University of Athens. This rigorous academic program equipped me with a solid foundation in mathematical modeling, problem-solving, and analytical thinking. I gained valuable insights into the principles of physics and their real-world applications. My time at this esteemed institution honed my research and critical thinking skills, preparing me for a successful career in fields that require a strong quantitative background.
+              - degree: Integrated master, Applied Mathematics and Physics
+        university: National Technical University of Athens (NTUA) 
+        time: 2002 - 2010
+        details: |
+            I pursued my studies in Applied Mathematics and Physics at the  National Technical University of Athens. This rigorous academic program equipped me with a solid foundation in mathematical modeling, problem-solving, and analytical thinking. I gained valuable insights into the principles of physics and their real-world applications. My time at this esteemed institution honed my research and critical thinking skills, preparing me for a successful career in fields that require a strong quantitative background.
+      
+      - degree: Embedded system design and microcontrollers applications for the Internet of Things
+        university: Hellenic Open University
+        time: Oct 2020 - Jul 2021
+        details: |
+            1. Design, emulation, and synthesis in FPGA of complex hierarchical structures using VHDL language
+            2. Design, programming, emulation, and synthesis of microprocessors (soft-core) on FPGA
+            3. Design and implementation of architectures integrated systems (System-on-Chip) with microprocessor interface (soft-core) and peripheral functional units on FPGA
+            4. Design and implementation of embedded systems using commercial ARM microprocessors and regional units
+            5. Design and implementation of sensor networks using embedded systems
+            6. Internet of Things (IoT) applications using embedded systems    
 
 
 experiences:
